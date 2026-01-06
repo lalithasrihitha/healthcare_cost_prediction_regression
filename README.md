@@ -41,6 +41,7 @@ The objectives of this analysis are to:
 ---
 
 ## Model Definition
+The initial regression model was specified as:
 
 
 ### Hypotheses
