@@ -113,5 +113,4 @@ This analysis highlights that **healthcare utilization and chronic disease burde
 ## Academic Context
 This project was completed as a **graduate-level  assignment** for **Applied Statistics using R**, focusing on multiple linear regression modeling, diagnostics, and interpretation.
 
-The initial regression model was specified as:
 
